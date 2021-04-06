@@ -2,7 +2,7 @@
 
 I'm Tom a developer building stuff I find useful
 
-#### 🖊 Latest nlog posts
+#### 🖊 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Rounding at the start](https://tomandrews.co.uk/blog/2021-06-02-midnight-rounding/)
 - [Omnomnom](https://tomandrews.co.uk/projects/omnomnom/)
